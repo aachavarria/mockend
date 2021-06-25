@@ -1,6 +1,6 @@
 {
   "Ingredient": {
-    "id": "int",
+    "id": "string",
     "name": "string",
     "description": "string",
     "unavailable": "boolean"
